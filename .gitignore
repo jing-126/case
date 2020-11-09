@@ -9,7 +9,7 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+#在fix分支中修改了 忽略的文件
 # Package Files #
 *.jar
 *.war
